@@ -37,10 +37,13 @@ ${data.installation}
 
 ## Usage
 In order to use this app, run it within an integrated terminal
+![]
 
 ${data.usage}
 
 ## github
+
+https://github.com/ManinderManan/Week_09_README_Gen/tree/main/utils
 
 ${data.github}
 
